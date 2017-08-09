@@ -243,14 +243,12 @@ textarea.w-select {
 
 .results {
   width: 100%;
-  min-height: 200px;
-  padding-left: 13%;
+  min-height: 100px;
+  padding-top: 100px;
+  padding-left: 12%;
   font-family: Overpass, sans-serif;
 }
 
-#results {
-  padding-top: 100px;
-}
 
 .result {
   display: block;
@@ -288,6 +286,7 @@ textarea.w-select {
   width: 600px;
   padding-top: 20px;
   padding-bottom: 20px;
+  padding-left: 8.5%;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
@@ -386,6 +385,10 @@ textarea.w-select {
     display: block;
   }
   .results {
+    padding-left: 0px;
+    padding-top: 40px;
+  }
+  .pagination {
     padding-left: 0px;
   }
   .result {
