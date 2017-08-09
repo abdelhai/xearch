@@ -40,10 +40,6 @@ search.addWidget(
     cssClasses: {
       active: 'active'
     },
-    labels: {
-      previous: '〈 prev',
-      next: 'next 〉</a>'
-    },
     showFirstLast: false
   })
 );

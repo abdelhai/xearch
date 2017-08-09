@@ -308,7 +308,12 @@ textarea.w-select {
   color: white;
   padding: 10px;
 }
+.ais-pagination--item__disabled {
+  display: none;
+}
 
+.ais-pagination--item__active .ais-pagination--link {
+  background-color: rgba(73, 185, 222, 0.17);
 
 .mobile-header {
   display: none;
