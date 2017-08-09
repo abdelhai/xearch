@@ -249,7 +249,7 @@ textarea.w-select {
 }
 
 #results {
-  padding-top: 120px;
+  padding-top: 100px;
 }
 
 .result {
@@ -314,6 +314,7 @@ textarea.w-select {
 
 .ais-pagination--item__active .ais-pagination--link {
   background-color: rgba(73, 185, 222, 0.17);
+}
 
 .mobile-header {
   display: none;
